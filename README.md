@@ -1,5 +1,7 @@
 # dribbble-challenge
 
+Challenge from LeWagon.
+
 Let’s design a component from this Dribbble bucket! 🏀
 
 Preview of the project:
