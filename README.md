@@ -1,6 +1,6 @@
 # dribbble-challenge
 
-Challenge from LeWagon.
+Challenge from Le Wagon.
 
 Let’s design a component from this Dribbble bucket! 🏀
 
